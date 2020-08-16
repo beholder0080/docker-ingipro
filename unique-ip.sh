@@ -1,0 +1,1 @@
+cat ./logs/access.log | cut -f1 -d ' ' | sort | uniq > unique-ip.txt
