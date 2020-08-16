@@ -9,3 +9,6 @@
 172.20.0.1 - - [14/Aug/2020:13:49:44 +0000] "GET /index.php HTTP/1.1" 200 23825 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
 172.20.0.1 - - [14/Aug/2020:13:50:12 +0000] "GET /index.php HTTP/1.1" 200 143 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
 172.20.0.1 - - [14/Aug/2020:13:50:24 +0000] "GET /index.php HTTP/1.1" 200 23768 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+172.20.0.1 - - [16/Aug/2020:19:20:33 +0000] "GET / HTTP/1.1" 200 23670 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+172.20.0.1 - - [16/Aug/2020:19:20:34 +0000] "GET /favicon.ico HTTP/1.1" 404 572 "http://127.0.0.1:8888/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+172.20.0.1 - - [16/Aug/2020:19:21:13 +0000] "GET / HTTP/1.1" 200 23668 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
